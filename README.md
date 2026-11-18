@@ -124,10 +124,14 @@ markup과 markdown 모두 효과가 있습니다.
 
 ![멋진 배경](https://img.magnific.com/premium-photo/dramatic-winter-sunset-mountains-peaks-with-ocean-reflections-3d-rendering-background_199726-109.jpg?semt=ais_hybrid&w=740&q=80)
 
+깃허브는 이미지를 복사해서 붙여넣어도 임시로 업로드해서 주소를 만들어 줍니다.
 
+<img width="447" height="447" alt="image" src="https://github.com/user-attachments/assets/ce70e028-e0ec-43c4-9150-55d8fda233d9" />
 
+내가 가진 이미지도 표시할 수 있습니다.
+같은 저장소에 있다면 상대경로로 표시할 수 있습니다.
 
-
+![카카오라이언](./dummy/lion.gif)
 
 
 
