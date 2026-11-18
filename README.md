@@ -128,7 +128,7 @@ markup과 markdown 모두 효과가 있습니다.
 
 <img width="447" height="447" alt="image" src="https://github.com/user-attachments/assets/ce70e028-e0ec-43c4-9150-55d8fda233d9" />
 
-내가 가진 이미지도 표시할 수 있습니다.
+내가 가진 이미지도 표시할 수 있습니다.  
 같은 저장소에 있다면 상대경로로 표시할 수 있습니다.
 
 ![카카오라이언](./dummy/lion.gif)
